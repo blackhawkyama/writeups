@@ -6,7 +6,7 @@ permalink: /about/
 
 ## BlackhawkYama
 
-Cybersecurity Analyst · Ethical Hacker · Penetration Tester — based in Chicago, IL.
+Cybersecurity Analyst · Ethical Hacker · Penetration Tester — based in Rancho Santa Fe, CA.
 
 Driven security enthusiast focused on **offensive security**. Actively building hands-on
 skills through **Hack The Box**, **TryHackMe**, and CTF challenges — applying real
