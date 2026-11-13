@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading Authorization Out of IP Camera Firmware (And Being Wrong About It)"
-date: 2026-11-13 11:30:00 -0800
+date: 2026-11-13 09:00:00 -0800
 categories: [methodology, firmware, vulnerability-research]
 tags: [firmware, squashfs, aarch64, reverse-engineering, authorization, access-control, apache, suexec, iot, bug-bounty, responsible-disclosure]
 ---
