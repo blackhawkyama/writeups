@@ -1,15 +1,16 @@
 # --- Site settings ---------------------------------------------------------
 # Project Pages: served from the public repo `writeups` at /writeups.
 
-title: BlackhawkYama
-tagline: Security write-ups, notes, and projects
+title: Scott Egan
+tagline: Offensive security, AI red teaming, vulnerability research
 description: >-
-  Personal site and technical blog of BlackhawkYama.
+  Offensive security write-ups by Scott Egan: penetration testing, AI and ML red teaming,
+  firmware reverse engineering, and vulnerability research method.
 url: "https://blackhawkyama.github.io"
 baseurl: "/writeups"
 
 author:
-  name: BlackhawkYama
+  name: Scott Egan
   # email: you@example.com
 
 # --- Theme -----------------------------------------------------------------

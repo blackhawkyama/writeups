@@ -1,10 +1,15 @@
-# BlackhawkYama — security write-ups
+# Scott Egan — security write-ups
 
-Hands-on write-ups from labs and CTF work: Hack The Box, PortSwigger Web Security
-Academy, and Ethernaut. Each post covers recon, analysis, the working technique,
-and remediation.
+Offensive security write-ups: penetration testing method, AI and ML red teaming, firmware
+reverse engineering, and vulnerability research. Each post covers recon, analysis, the
+working technique, and remediation.
 
-Live at **https://blackhawkyama.github.io/writeups**
+Earlier posts cover Hack The Box, the PortSwigger Web Security Academy and Ethernaut.
 
-All work performed in legal, authorized environments. Flags are redacted and live
-target addresses are masked.
+Live at **https://blackhawkyama.github.io/writeups/**
+
+All work performed in legal, authorized environments: systems I am responsible for,
+personal labs, sanctioned exercises, and in scope bug bounty programmes. Flags are
+redacted and live target addresses are masked. Where a write-up touches a live bug bounty
+finding, technical specifics are withheld until the report is resolved and disclosure is
+permitted.
